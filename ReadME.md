@@ -1,4 +1,3 @@
----
 
 ### CloudFormation Template Description
 
@@ -43,7 +42,3 @@ This CloudFormation template automates the deployment of a basic AWS infrastruct
 
 10. **Outputs**:
     - Provides the DNS name of the Load Balancer, allowing you to access the deployed application via the internet.
-
----
-
-This template sets up a highly available, scalable web application infrastructure in AWS, ensuring that traffic is properly routed and balanced between multiple instances.
